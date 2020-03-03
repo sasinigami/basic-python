@@ -1,0 +1,27 @@
+Install Python in your Local Machine: 
+
+Please follow instructions here: https://www.howtogeek.com/197947/how-to-install-python-on-windows/ 
+
+Go to where Python is installed and go Pip 
+
+Go to C Drive -> Users -> UserName -> AppData -> Local -> Programs -> Python -> Python36-32 -> Scripts 
+
+Open CMD in Scripts Folder 
+
+Type CMD in address bar 
+
+Install these using ”pip install (insert library)” in order:
+
+pip install numpy 
+pip install opencv-python 
+pip install pillow 
+pip install pyautogui 
+pip install keyboard 
+pip install pyperclip 
+pip install pytesseract 
+
+Install tesseract-ocr-setup-3.05.01 
+
+The installer automatically adds tesseract to your path Environment Variable. If not, just add it manually.   
+
+ 
